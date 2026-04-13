@@ -1,0 +1,25 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# Jupyter notebooks - use LF
+*.ipynb text eol=lf
+
+# Python files - use LF
+*.py text eol=lf
+
+# YAML files - use LF
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Markdown files - use LF
+*.md text eol=lf
+
+# Windows batch files - use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.pkl binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
