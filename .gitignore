@@ -15,3 +15,7 @@ venv/
 
 # VS Code
 .vscode/
+
+# Bulldozer dataset
+bulldozer-price-prediction-project-2/dataset/
+
