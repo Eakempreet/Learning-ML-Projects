@@ -1,0 +1,21 @@
+name: dog-vision
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pillow
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - tqdm
+  - pip
+  - pip:
+    - tensorflow[and-cuda]==2.16.1
+    - tensorflow-hub==0.16.1
+    - tf-keras==2.16.0
