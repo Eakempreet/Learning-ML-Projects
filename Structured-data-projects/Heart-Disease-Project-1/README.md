@@ -7,7 +7,8 @@ Built as part of my ML learning, the goal was to go through the full pipeline pr
 
 ## What the project does
 
-Given a set of medical attributes, things like age, cholesterol, chest pain type, resting blood pressure, and max heart rate — the model predicts:
+Given a set of medical attributes, things like age, cholesterol, chest pain type, resting blood pressure, and max heart rate
+The model predicts:
 
 - `1` → Heart disease present  
 - `0` → No heart disease
@@ -20,6 +21,7 @@ Started with data loading and a thorough EDA to understand the features before t
 - Logistic Regression,
 - KNN,
 - and Random Forest
+  
 then tuned and evaluated each one using accuracy, precision, recall, F1, confusion matrix, and ROC curve. The best model was saved for reuse.
 
 ---
