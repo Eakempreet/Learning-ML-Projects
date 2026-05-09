@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-This repository documents my learning journey through machine learning and deep learning — covering both **structured** and **unstructured** data problems.
+This repository documents my learning journey through machine learning and deep learning, covering both **structured** and **unstructured** data problems.
 
 Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Keras, with a focus on practical implementation, model evaluation, and iterative improvement.
 
@@ -36,7 +36,7 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 | Project | Type | Description |
 |---|---|---|
-| [Dog Vision](https://github.com/Eakempreet/applied-ml-projects/tree/26d7a76cdbed16c7877082578ce21068db111707/Unstructured-data-projects/dog-vision-project-3) | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNet V2) |
+| [Dog Vision](https://github.com/Eakempreet/applied-ml-projects/tree/26d7a76cdbed16c7877082578ce21068db111707/Unstructured-data-projects/dog-vision-project-3) | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNetV2) |
 
 ---
 
@@ -56,7 +56,7 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 | Category | Tools |
 |---|---|
 | Language | Python |
-| Deep Learning | TensorFlow / Keras, TensorFlow Hub |
+| Deep Learning | TensorFlow / Keras, MobileNetV2 |
 | Classical ML | Scikit-Learn |
 | Data | Pandas, NumPy |
 | Visualization | Matplotlib |
@@ -68,4 +68,4 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 > Some projects follow course-guided implementations; others include additional experimentation, personal modifications, and model improvements made during the learning process.
 >
-> For project-specific details, models, and results — explore the individual project folders.
+> For project-specific details, models, and results, explore the individual project folders.
