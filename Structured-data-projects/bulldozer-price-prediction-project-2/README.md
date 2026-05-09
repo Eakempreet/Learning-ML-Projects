@@ -1,6 +1,6 @@
 # Bulldozer Price Prediction
 
-A regression project that predicts the future sale price of bulldozers at auction using historical equipment and sales data.
+A regression project that predicts the future sale price of bulldozers at auction using historical equipment and sales data (time series).
 
 ---
 
