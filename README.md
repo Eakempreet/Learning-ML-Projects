@@ -27,8 +27,8 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 | Project | Type | Description |
 |---|---|---|
-| Heart Disease Prediction | Binary Classification | Predicts the presence of heart disease using structured medical data |
-| Bluebook for Bulldozers | Regression | Predicts bulldozer sale prices from historical auction data |
+| [Heart Disease Prediction](https://github.com/Eakempreet/applied-ml-projects/tree/26d7a76cdbed16c7877082578ce21068db111707/Structured-data-projects/Heart-Disease-Project-1) | Binary Classification | Predicts the presence of heart disease using structured medical data |
+| [Bluebook for Bulldozers](https://github.com/Eakempreet/applied-ml-projects/tree/26d7a76cdbed16c7877082578ce21068db111707/Structured-data-projects/bulldozer-price-prediction-project-2) | Regression | Predicts bulldozer sale prices from historical auction data |
 
 ---
 
@@ -36,7 +36,7 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 | Project | Type | Description |
 |---|---|---|
-| Dog Vision | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNet V2) |
+| [Dog Vision](https://github.com/Eakempreet/applied-ml-projects/tree/26d7a76cdbed16c7877082578ce21068db111707/Unstructured-data-projects/dog-vision-project-3) | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNet V2) |
 
 ---
 
