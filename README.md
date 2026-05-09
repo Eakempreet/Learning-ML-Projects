@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-This repository documents my learning journey through machine learning and deep learning covering both **structured** and **unstructured** data problems.
+This repository documents my learning journey through machine learning and deep learning — covering both **structured** and **unstructured** data problems.
 
 Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Keras, with a focus on practical implementation, model evaluation, and iterative improvement.
 
@@ -27,8 +27,8 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 | Project | Type | Description |
 |---|---|---|
-| [Heart Disease Prediction](./heart-disease/) | Binary Classification | Predicts the presence of heart disease using structured medical data |
-| [Bluebook for Bulldozers](./bulldozers/) | Regression | Predicts bulldozer sale prices from historical auction data |
+| Heart Disease Prediction | Binary Classification | Predicts the presence of heart disease using structured medical data |
+| Bluebook for Bulldozers | Regression | Predicts bulldozer sale prices from historical auction data |
 
 ---
 
@@ -36,7 +36,7 @@ Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Ke
 
 | Project | Type | Description |
 |---|---|---|
-| [Dog Vision](./dog-vision/) | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNet V2) |
+| Dog Vision | Multi-class Classification | Identifies dog breeds from images using TensorFlow and transfer learning (MobileNet V2) |
 
 ---
 
