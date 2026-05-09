@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-This repository documents my learning journey through machine learning and deep learning — covering both **structured** and **unstructured** data problems.
+This repository documents my learning journey through machine learning and deep learning covering both **structured** and **unstructured** data problems.
 
 Projects span classical ML with Scikit-Learn to deep learning with TensorFlow/Keras, with a focus on practical implementation, model evaluation, and iterative improvement.
 
